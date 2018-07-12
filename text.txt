@@ -1,3 +1,4 @@
 #encoding=utf-8
 java test
 mergedemo
+这是mergedemo分支上的内容
